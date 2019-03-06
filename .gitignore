@@ -9,3 +9,4 @@ bin/gopkgs
 bin/goreturns
 bin/guru
 .vscode/launch.json
+bin/gorename
