@@ -1,0 +1,12 @@
+bin/go-symbols.exe
+bin/dlv.exe
+bin/go-outline.exe
+bin/godef.exe
+bin/gopkgs.exe
+bin/guru.exe
+bin/goreturns.exe
+bin/gorename.exe
+bin/golint.exe
+bin/gocode.exe
+.vscode/settings.json
+.vscode/launch.json
