@@ -8,3 +8,4 @@ bin/golint
 bin/gopkgs
 bin/goreturns
 bin/guru
+.vscode/launch.json
